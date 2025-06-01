@@ -5,6 +5,7 @@ import TextForm from "./components/TextForm";
 import Alert from "./components/Alert";
 import About from "./components/About";
 import { Route , Routes } from "react-router-dom";
+import { Analytics } from '@vercel/analytics/react';
 // import Footer from "./components/Footer";
 function App() {
 
@@ -40,7 +41,7 @@ function App() {
   return (
     <>
       <Navbar
-        title="TextUtils"
+        title="TextUtils by Stechtic"
         aboutText="About"
         mode={mode}
         toggleMode={toggleMode}
@@ -56,6 +57,7 @@ function App() {
         <Route exact path = "about" element = {<About mode={mode}/>} />
       </Routes>
 
+        <Analytics />
       {/* <Footer mode={mode}/> */}
     </>
   );
