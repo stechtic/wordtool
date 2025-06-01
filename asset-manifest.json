@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/wordtool/static/css/main.131953b2.css",
-    "main.js": "/wordtool/static/js/main.38d64581.js",
+    "main.js": "/wordtool/static/js/main.b7f06a2b.js",
     "static/js/453.ed3810f9.chunk.js": "/wordtool/static/js/453.ed3810f9.chunk.js",
     "index.html": "/wordtool/index.html",
     "main.131953b2.css.map": "/wordtool/static/css/main.131953b2.css.map",
-    "main.38d64581.js.map": "/wordtool/static/js/main.38d64581.js.map",
+    "main.b7f06a2b.js.map": "/wordtool/static/js/main.b7f06a2b.js.map",
     "453.ed3810f9.chunk.js.map": "/wordtool/static/js/453.ed3810f9.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.131953b2.css",
-    "static/js/main.38d64581.js"
+    "static/js/main.b7f06a2b.js"
   ]
 }
